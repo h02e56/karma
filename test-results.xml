@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="Chrome 31.0.1650 (Windows Vista)" package="" timestamp="2013-11-29T13:47:35" id="0" hostname="hp1" tests="1" errors="0" failures="0" time="0.015">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"/>
+    </properties>
+    <testcase name="combining functions" time="0.015" classname="Chrome 31.0.1650 (Windows Vista).functional javasc"/>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </testsuite>
+</testsuites>
